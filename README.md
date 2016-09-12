@@ -34,9 +34,7 @@ It only took minutes to create the new GitHub account, fork Barry Clark's reposi
 
 From the Smashing Magazine article:
 
-q.
-Go to the root of your blog’s repository, and edit the CNAME file to include your domain name (for example, www.yourdomainname.com).
-q..
+> Go to the root of your blog’s repository, and edit the CNAME file to include your domain name (for example, www.yourdomainname.com).
 
 The CNAME file was empty. I added only one line: www.perchwire.com and saved it.
 
