@@ -8,7 +8,7 @@ published: true
 
 ***
 
-<div style="text-align:center;" markdown="1">kkk *"We cannot always build the future for our youth, but we can build our youth for the future."* - Franklin D. Roosevelt</div>
+<div style="text-align:center;" markdown="2">*"We cannot always build the future for our youth, but we can build our youth for the future."* - Franklin D. Roosevelt</div>
 
 ***
 
