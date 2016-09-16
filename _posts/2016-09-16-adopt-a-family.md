@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: adopt
 title: Adopt a Family
 subtitle: Help Build the Next Generation
 published: true
