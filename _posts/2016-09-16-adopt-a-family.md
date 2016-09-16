@@ -24,7 +24,7 @@ Baby University wants to end generational poverty by helping families prepare th
 
 When you sponsor a Baby University family, you are connecting an underprivileged family to much needed resources including:
 
-<div class="largescreens-only" style="float:right;text-align:center;"><a href="http://babyutoledo.com/19/south-toledo-kids-zone"><img border="0"  src="/images/babyu-facebook-logo-small.jpg"></a><br /><span class="greytext"><a href="http://babyutoledo.com/19/south-toledo-kids-zone">click here</a></span></div>
+<div class="largescreens-only" style="float:right;text-align:center;"><a href="http://babyutoledo.com/19/south-toledo-kids-zone"><img border="0"  src="http://babyutoledo.com/images/babyu-facebook-logo-small.jpg"></a><br /><span class="greytext"><a href="http://babyutoledo.com/19/south-toledo-kids-zone">click here</a></span></div>
 
 Social Work:
 
