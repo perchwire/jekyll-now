@@ -8,10 +8,9 @@ published: true
 
 ***
 
-<div markdown="1" style="text-align:center;">*"We cannot always build the future for our youth, **but we can build** our youth for the future."*<br /> - Franklin D. Roosevelt</div>
+<div style="text-align:center;">*"We cannot always build the future for our youth, but we can build our youth for the future."* - Franklin D. Roosevelt</div>
 
 ***
-
 
 For a donation of $1,000, you can sponsor a family to participate in Baby University and help us achieve our mission.
 
