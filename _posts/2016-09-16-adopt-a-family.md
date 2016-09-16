@@ -6,12 +6,12 @@ published: true
 ---
 
 
-***
+<hr class="shortgrey" />
 
 <div style="text-align:center;"><em>"We cannot always build the future for our youth, but we can build our youth for the future."</em> - <span style="font-size:80%;">Franklin D. Roosevelt</span>
 </div>
 
-***
+<hr class="shortgrey" />
 
 
 For a donation of $1,000, you can sponsor a family to participate in Baby University and help us achieve our mission.
