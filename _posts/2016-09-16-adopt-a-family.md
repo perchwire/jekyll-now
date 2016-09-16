@@ -45,7 +45,7 @@ Baby U:
 * Parenting classes
 * Instruction in best parenting practices
 
-<div class="smallscreens">
+<div class="smallscreens" markdown="1">
 [South Toledo Kids Zone](http://babyutoledo.com/19/south-toledo-kids-zone)
 </div>
 
