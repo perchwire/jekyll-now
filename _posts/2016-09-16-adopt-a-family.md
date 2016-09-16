@@ -8,7 +8,7 @@ published: true
 
 <hr class="shortgrey" />
 
-<div style="text-align:center;"><em>"We cannot always build the future for our youth, but we can build our youth for the future."</em> - <span style="font-size:80%;">Franklin D. Roosevelt</span>
+<div style="text-align:center;font-size:120%;"><em>"We cannot always build the future for our youth, but we can build our youth for the future."</em> - <span style="font-size:80%;">Franklin D. Roosevelt</span>
 </div>
 
 <hr class="shortgrey" />
