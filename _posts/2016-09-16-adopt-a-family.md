@@ -8,7 +8,7 @@ published: true
 
 ***
 
-<div style="text-align:center;"><em>"We cannot always build the future for our youth, but we can build our youth for the future."</em> - <small>Franklin D. Roosevelt</small>
+<div style="text-align:center;"><em>"We cannot always build the future for our youth, but we can build our youth for the future."</em> - <span style="font-size:80%;">Franklin D. Roosevelt</span>
 </div>
 
 ***
