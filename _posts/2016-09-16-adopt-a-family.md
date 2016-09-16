@@ -12,6 +12,7 @@ published: true
 
 ***
 
+
 For a donation of $1,000, you can sponsor a family to participate in Baby University and help us achieve our mission.
 
 You can [donate with PayPal,](http://babyutoledo.com/8/donate#Adopt-a-Family) or you can print, complete, and mail this form, which is an Acrobat PDF file: [BabyU Adopt a Family Form.](http://babyutoledo.com/docs/BabyU-Adopt-A-Family.pdf)
