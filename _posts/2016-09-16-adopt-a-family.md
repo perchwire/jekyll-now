@@ -8,7 +8,8 @@ published: true
 
 ***
 
-<div style="text-align:center;" markdown="">crap2 *"We cannot always build the future for our youth, but we can build our youth for the future."* - Franklin D. Roosevelt</div>
+<div style="text-align:center;"><em>"We cannot always build the future for our youth, but we can build our youth for the future."</em> - <small>Franklin D. Roosevelt</small>
+</div>
 
 ***
 
