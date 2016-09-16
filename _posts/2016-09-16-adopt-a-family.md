@@ -46,7 +46,7 @@ Baby U:
 * Instruction in best parenting practices
 
 <div class="smallscreens">
-"%{font-size:120%}South Toledo Kids Zone%":http://babyutoledo.com/19/south-toledo-kids-zone
+[South Toledo Kids Zone](http://babyutoledo.com/19/south-toledo-kids-zone)
 </div>
 
 Every Saturday morning for 10 weeks, Baby University attendees enjoy:
