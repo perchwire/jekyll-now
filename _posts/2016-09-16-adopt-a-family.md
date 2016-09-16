@@ -2,12 +2,13 @@
 layout: post
 title: Adopt a Family
 subtitle: Help Build the Next Generation
+published: true
 ---
 
 
 ***
 
-<center>*"We cannot always build the future for our youth, but we can build our youth for the future."*<br /> - Franklin D. Roosevelt</center>
+<div markdown="1" style="text-align:center;">*"We cannot always build the future for our youth, but we can build our youth for the future."*<br /> - Franklin D. Roosevelt</div>
 
 ***
 
@@ -58,5 +59,3 @@ Every Saturday morning for 10 weeks, Baby University attendees enjoy:
 * Group discussions where attendees share their expertise
 * Discovering their potential and worth as a parents
 * Learning how to strengthen their parent-child bond
-
- 
