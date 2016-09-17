@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 I'm building this test website by using Jekyll with GitHub pages, but I'm not using a local install of Jekyll, which requires committing web posts.
@@ -23,4 +24,25 @@ When any file is saved within my GitHub Pages repository (perchwire.github.io), 
 
 I built <http://babyutoledo.com> using my Grebe web publishing app. I can create Grebe posts by using Textile, Markdown/MultiMarkdown, and HTML. The content is stored in a MySQL database, but I cache content in memecached.
 
-Since I've recently taki
+Since I've recently taken a liking to the concept of static HTML-based websites, I want to try to recreate much of the Baby U website at perchwire.com, using Jekyll and GitHub Pages. 
+
+I think that search is the only function that requires content to be dynamically-generated for browsing-only users. The blog section at Baby U is dynamically-generated. The vast majority of the site, however, could be served via static HTML pages.
+
+The customized version of Grebe that I use at Baby U permits using different page templates on a per-post basis. That should be easily replicable with Jekyll.
+
+I have already recreated the Adopt a Family page.
+
+* Perchwire.com + Jekyll + GitHub Pages : [Adopt a Family](http://www.perchwire.com/adopt-a-family/)
+* BabyUToledo.com + Grebe : [Adopt a Family](http://babyutoledo.com/4/adopt-a-family)
+
+To-dos as of Sep 17, 2016:
+
+* recreate the look for the default Baby U pages
+* recreate the Baby U homepage
+* recreate the look of the Baby U blog 
+* add any other custom pages, CSS, and JavaScript, such as the CSS used to display the thermometer on the donor page(s)
+
+
+
+
+
