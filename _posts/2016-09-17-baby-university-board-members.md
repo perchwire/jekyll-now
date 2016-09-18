@@ -4,17 +4,17 @@ title: Baby University Board Members
 ---
 
 
-### Kelly Kaiser, Executive Director of Baby U
+#### Kelly Kaiser, Executive Director of Baby U
 
 Kelly Kaiser started Baby University in 2010 as a result of friendships she had developed with some young families in the inner city. In an effort to find an effective way to support families and children struggling with poverty, Baby University was birthed.
 
 Kelly and her husband David have raised 5 kids, and are enjoying being grandparents. Kelly is a Licensed Physical Therapist and a Certified "Bridges Out of Poverty":http://www.ahaprocess.com/store/bridges-out-of-poverty-book/ Trainer.
 
 
----
+<hr class="shortgrey" />
 
 
-### Pete Allesee, Board President
+#### Pete Allesee, Board President
 
 Originally from Northwest Indiana, Pete moved to the Toledo area in 1992.  He worked for Marathon Petroleum for 31 years, holding a variety of positions in Sales, Operations and Real Estate. He retired in 2012. 
 
@@ -23,10 +23,10 @@ Pete coached baseball for 20 years for his sons Matt, Chris and Sam.  He now enj
 Pete has worked on charitable fundraising with the Perrysburg Athletic Boosters, The Epilepsy Center of NW OH and Children’s Miracle Network.
 
 
----
+<hr class="shortgrey" />
 
 
-### Belinda Costin, Board Vice President
+#### Belinda Costin, Board Vice President
 
 Belinda Costin first joined Baby University in August 2010 where she continues to work as the Child Care Supervisor. 
 
@@ -39,10 +39,10 @@ Belinda is on the Board of Directors for the Ohio Association for the Education 
 Belinda has her Bachelor of Science in Education from Bowling Green State University and is a Graduate of the University of Dayton with a Master’s Degree in Educational Administration.
 
 
----
+<hr class="shortgrey" />
 
 
-### Steve Pereus, Board Treasurer
+##### Steve Pereus, Board Treasurer
 
 Steve brings over two decades of successful experience, leading improvements in education, business, and not for profits. He has been involved in education for more than 20 years as a COO, board member, and consultant in education.
 
@@ -55,10 +55,10 @@ Steve has served in executive positions with British Petroleum, and he is the fo
 He is also the author of three books on performance improvement in education and government, and he is a frequent speaker on the use of data in education. 
 
 
----
+<hr class="shortgrey" />
 
 
-### Mary Ann Rody, Board Secretary
+##### Mary Ann Rody, Board Secretary
 
 Mary Ann Rody currently serves as Secretary of the Baby University Board, in addition to helping with grant-writing for Baby U. 
 
@@ -73,20 +73,20 @@ Mary Ann has served on the board of ProMedica Caring Services, EC3 Committee for
 Mary Ann lives in Maumee, Ohio with her husband of 38 years. Together they have two grown daughters, and one grown son.
 
 
----
+<hr class="shortgrey" />
 
 
-### Charity Anderson, Board Member
+##### Charity Anderson, Board Member
 
 Charity Anderson was first introduced to Baby University in April of 2014 while she was expecting her first baby. She enrolled into the program and became a well prepared first-time parent because of her experiences there. She also followed through and completed the Baby University Graduate program just in time for her daughter to be born in November of 2014. 
 
 Charity is a graduate from Lourdes University and is a holder of four undergraduate degrees with honors: Applied Science, Art, English, and Education. She is a licensed teacher who feels especially blessed to pursue a graduate degree at the University of Toledo, raise her beautiful daughter, prepare for baby #2 who is expected in 2016, and participate on Baby University’s board.
 
 
----
+<hr class="shortgrey" />
 
 
-### Sarah Otis, Board Member
+##### Sarah Otis, Board Member
 
 Sara Otis has 30 years experience in the not-for-profit environment with extensive work in early childhood and school age child care. 
 
