@@ -8,7 +8,7 @@ title: Baby University Board Members
 
 Kelly Kaiser started Baby University in 2010 as a result of friendships she had developed with some young families in the inner city. In an effort to find an effective way to support families and children struggling with poverty, Baby University was birthed.
 
-Kelly and her husband David have raised 5 kids, and are enjoying being grandparents. Kelly is a Licensed Physical Therapist and a Certified "Bridges Out of Poverty":http://www.ahaprocess.com/store/bridges-out-of-poverty-book/ Trainer.
+Kelly and her husband David have raised 5 kids, and are enjoying being grandparents. Kelly is a Licensed Physical Therapist and a Certified [Bridges Out of Poverty](http://www.ahaprocess.com/store/bridges-out-of-poverty-book) Trainer.
 
 
 <hr class="shortgrey" />
@@ -46,9 +46,9 @@ Belinda has her Bachelor of Science in Education from Bowling Green State Univer
 
 Steve brings over two decades of successful experience, leading improvements in education, business, and not for profits. He has been involved in education for more than 20 years as a COO, board member, and consultant in education.
 
-Steve is the founder and president of "Enlīt.":http://enlitllc.com/ Enlīt's technology, tools, and training build the capacity of educational organizations to operate more efficiently, reach goals, and make changes that improve performance.
+Steve is the founder and president of [Enlīt](http://enlitllc.com). Enlīt's technology, tools, and training build the capacity of educational organizations to operate more efficiently, reach goals, and make changes that improve performance.
 
-Enlīt has worked with over 100 educational organizations in 13 states since 2010. Enlīt's technology and training adapt and integrate "Lean Six Sigma,":https://en.wikipedia.org/wiki/Lean_Six_Sigma the balanced scorecard and benchmarking to the educational organization.
+Enlīt has worked with over 100 educational organizations in 13 states since 2010. Enlīt's technology and training adapt and integrate [Lean Six Sigma](https://en.wikipedia.org/wiki/Lean_Six_Sigma), the balanced scorecard and benchmarking to the educational organization.
 
 Steve has served in executive positions with British Petroleum, and he is the former COO of Toledo Public schools where he led initiatives that generated over $17 million per year in cost savings, improved labor relations, and community perception of the district.
 
