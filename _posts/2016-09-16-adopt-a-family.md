@@ -61,3 +61,5 @@ Every Saturday morning for 10 weeks, Baby University attendees enjoy:
 * Group discussions where attendees share their expertise
 * Discovering their potential and worth as a parents
 * Learning how to strengthen their parent-child bond
+
+
