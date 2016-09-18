@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I'm building this test website by using Jekyll with GitHub pages, but I'm not using a local install of Jekyll, which requires committing web posts.
+*Sep 2016* - I'm building this test website by using Jekyll with GitHub pages, but I'm not using a local install of Jekyll, which requires committing web posts.
 
 I'm using GitHub's web browser editor to create and update pages.
 
