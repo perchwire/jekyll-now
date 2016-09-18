@@ -4,7 +4,7 @@ title: Baby University Board Members
 ---
 
 
-#### Kelly Kaiser, Executive Director of Baby U
+##### Kelly Kaiser, Executive Director of Baby U
 
 Kelly Kaiser started Baby University in 2010 as a result of friendships she had developed with some young families in the inner city. In an effort to find an effective way to support families and children struggling with poverty, Baby University was birthed.
 
@@ -14,7 +14,7 @@ Kelly and her husband David have raised 5 kids, and are enjoying being grandpare
 <hr class="shortgrey" />
 
 
-#### Pete Allesee, Board President
+##### Pete Allesee, Board President
 
 Originally from Northwest Indiana, Pete moved to the Toledo area in 1992.  He worked for Marathon Petroleum for 31 years, holding a variety of positions in Sales, Operations and Real Estate. He retired in 2012. 
 
@@ -26,7 +26,7 @@ Pete has worked on charitable fundraising with the Perrysburg Athletic Boosters,
 <hr class="shortgrey" />
 
 
-#### Belinda Costin, Board Vice President
+##### Belinda Costin, Board Vice President
 
 Belinda Costin first joined Baby University in August 2010 where she continues to work as the Child Care Supervisor. 
 
