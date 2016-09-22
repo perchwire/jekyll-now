@@ -24,7 +24,7 @@ You can also email Kelly Kaiser, the Baby U Director, at <a href="mailto:kelly.k
 
 ---
 
-<center>_<big>“I loved Baby U. I learned so much.”</big>_</center>
+<center><em><big>“I loved Baby U. I learned so much.”</big></em></center>
 
 ---
 
