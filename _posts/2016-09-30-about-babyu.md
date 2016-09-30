@@ -9,7 +9,6 @@ permalink: /about-babyu/
 
 <div markdown="1" style="text-align:center;font-size:125%;">_**Building the Next Generation**_</div>
 
-<p><more /></p>
 
 Baby University's mission is to help parents play a vital role in their children's development and education.
 
