@@ -5,7 +5,8 @@ title: Baby U in the News
 
 
  Apr 8, 2016 - Toledo Blade [story](http://www.toledoblade.com/local/2016/04/08/4-awarded-recognition-for-community-service.html) about the 2016 Jefferson Award winners for community service. [Kelly and David Kaiser](http://babyutoledo.com/15/our-story) were finalists.
-- _"The Jefferson Awards recognize community “unsung heroes” devoted to public service. The prize has been nicknamed the Nobel Prize for community service. The awards are sponsored by The Blade, Buckeye CableSystem, WTVG-13, and Leadership Toledo."_
+ 
+>  The Jefferson Awards recognize community “unsung heroes” devoted to public service. The prize has been nicknamed the Nobel Prize for community service. The awards are sponsored by The Blade, Buckeye CableSystem, WTVG-13, and Leadership Toledo.
 
 
 ---
