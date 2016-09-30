@@ -71,4 +71,8 @@ title: Baby University
 
 
 
-<br /><small>**Recent News:** April 2016 - [Kelly and David Kaiser](/our-story) were finalists for the 2016 Jefferson Award for _"community 'unsung heroes' devoted to public service."_ [More Baby University news](http://babyutoledo.com/5/baby-u-in-the-news).</small>
+<div style="background:#f5faff;padding:10px;margin-top:60px;font-size:80%;line-height:120%;">
+<strong>Recent News:</strong> April 2016 - <a href="/our-story">Kelly and David Kaiser</a> were finalists for the 2016 Jefferson Award for <em>"community 'unsung heroes' devoted to public service."</em> <a href="/baby-u-in-the-news">More Baby University news.</a>
+</div>
+
+
