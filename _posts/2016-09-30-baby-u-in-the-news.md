@@ -8,9 +8,16 @@ title: Baby U in the News
 - _"The Jefferson Awards recognize community “unsung heroes” devoted to public service. The prize has been nicknamed the Nobel Prize for community service. The awards are sponsored by The Blade, Buckeye CableSystem, WTVG-13, and Leadership Toledo."_
 
 
+---
+
+
 Aug 1, 2015 - Toledo Blade:
  - [3 area places of faith are 1 in building community](http://www.toledoblade.com/Religion/2015/08/01/3-area-places-of-faith-are-1-in-building-community.html)
  - _"Mosaic is “totally supported by suburban churches” and gets about 200 volunteers a month from 16 congregations, Pastor Kaiser said. The new location “gives us the opportunity to continue to serve people in South Toledo in a womb-to-career pipeline,” including restoring some services for children that were moved out of the community when Head Start left."_
+
+
+---
+
 
 
 Aug 14, 2013 - Toledo Blade:
@@ -18,13 +25,22 @@ Aug 14, 2013 - Toledo Blade:
  - _‘Baby University’ works to *break cycle of poverty*_
 
 
+---
+
+
 Jun 7, 2012 - Toledo Free Press:
  - [South Toledo Community Center seeks new home](http://babyutoledo.com/263/jun-2012-toledo-free-press-article-that-mentions-mosaic-ministries)
+
+
+---
 
 
 Mar 30, 2012 - Toledo Free Press:
  - [Churches, agencies partner to develop South Toledo](http://babyutoledo.com/257/mar-2012-toledo-free-press-article-that-mentions-mosaic-ministries)
 - _"Kaiser told the attendees at his community meeting that he’s consciously not calling South Toledo the “South End” anymore. Because this, he said, is not the end."_
+
+
+---
 
 
 Feb 10, 2012 - Toledo Free Press:
