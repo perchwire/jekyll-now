@@ -7,9 +7,9 @@ permalink: /about-babyu/
 
 ![baby u graduates](https://farm8.staticflickr.com/7588/16784693625_6b8be94d57_c.jpg)
 
-<div style="text-align:center;font-size:125%;">_**Building the Next Generation**_</div>
+<div markdown="1" style="text-align:center;font-size:125%;">_**Building the Next Generation**_</div>
 
-<<p><more /></p>
+<p><more /></p>
 
 Baby University's mission is to help parents play a vital role in their children's development and education.
 
