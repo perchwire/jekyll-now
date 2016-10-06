@@ -9,15 +9,8 @@ title: How Baby U Works
 ---
 
 <div style="text-align:center" markdown="1">
-_++"This class was so much fun and educational , thank you!"++_
+<big>_"This class was so much fun and educational , thank you!"_</big>
 </div>
-
----
-
-<div style="text-align:center" markdown="1">
-![child at baby u](https://c1.staticflickr.com/1/630/21194821714_e987fbd43e.jpg)
-</div>
-
 
 ---
 
@@ -55,4 +48,6 @@ While parents attend their class meetings, safe and fun childcare will be provid
 
 ---
 
-<div style="text-align:center;" markdown="1">_++"I was one the first ones to attend the very first session. It was so fun, and I learned a lot. Everyone was so great and helpful, and I knew my kids were safe in the little classes that they had for them. My kids loved it."++_</div>
+<div style="text-align:center;" markdown="1">
+<big>_"I was one the first ones to attend the very first session. It was so fun, and I learned a lot. Everyone was so great and helpful, and I knew my kids were safe in the little classes that they had for them. My kids loved it."_</big>
+</div>
