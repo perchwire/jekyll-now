@@ -20,7 +20,7 @@ This area is the most diverse neighborhood in Toledo, but unfortunately, 45 perc
 Baby U wants to break the cycle of poverty by ensuring kids are ready to learn when they begin school.
 
 
-Reference:
+Reference: 
 
 <a name="fn1"></a>
 <p class="footnote" id="fn1"><sup>1</sup> <a href="http://hcz.org">http://hcz.org</a> - <small>The Harlem Children's Zone works to "disrupt" generational poverty in Central Harlem, New York City. HCZ supports over 12,000 youth from early childhood through college.</small></p>
