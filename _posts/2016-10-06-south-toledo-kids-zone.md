@@ -6,7 +6,7 @@ title: South Toledo Kids Zone
 
 ![children playing at baby u](https://c2.staticflickr.com/6/5793/21626923740_27eda444a0_b.jpg)
 
-The South Toledo Kids Zone is modeled after **The Harlem Children's Zone.** <a href="#footnote1">1</a>
+The South Toledo Kids Zone is modeled after **The Harlem Children's Zone.** <sup class="footnote"><a href="#fn1">1</a></sup>
 
 The Zone's purpose is to create a **Cradle to Career** pipeline.
 
@@ -22,7 +22,7 @@ Baby U wants to break the cycle of poverty by ensuring kids are ready to learn w
 
 Reference:
 
-<a name="footnote1"></a>
+<a name="fn1"></a>
 <p class="footnote" id="fn1"><sup>1</sup> <a href="http://hcz.org">http://hcz.org</a> - <small>The Harlem Children's Zone works to "disrupt" generational poverty in Central Harlem, New York City. HCZ supports over 12,000 youth from early childhood through college.</small></p>
 
 
