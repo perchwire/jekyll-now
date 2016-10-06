@@ -22,6 +22,8 @@ Baby U wants to break the cycle of poverty by ensuring kids are ready to learn w
 
 Reference:
 
-fn1. http://hcz.org - The Harlem Children's Zone works to "disrupt" generational poverty in Central Harlem, New York City. HCZ supports over 12,000 youth from early childhood through college.
+<p class="footnote" id="fn1"><sup>1</sup> <a href="http://hcz.org">http://hcz.org</a> - <small>The Harlem Children's Zone works to "disrupt" generational poverty in Central Harlem, New York City. HCZ supports over 12,000 youth from early childhood through college.</small></p>
+
+
 
 Also visit [Urban Impact Pittsburgh](https://www.uifpgh.org)
