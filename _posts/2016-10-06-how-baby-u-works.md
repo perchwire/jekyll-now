@@ -8,7 +8,9 @@ title: How Baby U Works
 
 ---
 
-<div style="text-align:center;" markdown="1">_++"This class was so much fun and educational , thank you!"++_</div>
+<div style="text-align:center" markdown="1">
+_++"This class was so much fun and educational , thank you!"++_
+</div>
 
 ---
 
