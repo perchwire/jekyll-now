@@ -4,7 +4,7 @@ title: Quotes from Baby U Graduates
 ---
 
 
-<div style="text-align:center; font-size:120%;" markdown="1">
+<div style="text-align:center; font-size:120%; color:#666;" markdown="1">
 
 ![baby u graduates](https://farm8.staticflickr.com/7585/16745393982_fab3ccacfd_b.jpg)
 
