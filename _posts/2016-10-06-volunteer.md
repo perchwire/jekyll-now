@@ -5,7 +5,10 @@ title: Volunteer
 
 Teams and individual volunteers are needed to help in multiple ways at Baby University.
 
-Do you like kids? 
+
+<a name="Do-you-like-kids-"></a>
+
+### Do you like kids? 
 
 Help babysit during Saturday morning Baby U class sessions.
 
@@ -13,6 +16,7 @@ Help babysit during Saturday morning Baby U class sessions.
 
 
 
+<a name="Do-you-like-to-cook-"></a>
 
 ### Do you like to cook? 
 
@@ -21,6 +25,7 @@ Volunteer to cook a meal on Saturdays, or teach nutrition classes for Baby U par
 ![](https://c2.staticflickr.com/6/5638/21171874863_b9f126d234_z.jpg)
 
 
+<a name="Do-you-like-to-listen"></a>
 
 ### Do you like to listen?
 
