@@ -14,6 +14,13 @@ _++"This class was so much fun and educational , thank you!"++_
 
 ---
 
+<div style="text-align:center" markdown="1">
+![child at baby u](https://c1.staticflickr.com/1/630/21194821714_e987fbd43e.jpg)
+</div>
+
+
+---
+
 
 It's more than just a _class._
 
