@@ -1,8 +1,6 @@
 ---
 layout: babyupost
 title: Why Parents Matter
-date: Oct 12, 2016
-excerpt: Baby University helps parents give their children the greatest gift of all: A parent who can meet their needs and knows how to be their biggest cheerleader.
 ---
 
 CRAP Again Nothing Working
