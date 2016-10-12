@@ -1,7 +1,7 @@
 ---
 layout: babyupost
 title: Why Parents Matter
-excerpt: Baby University helps parents to ready their children for school.
+excerpt: Children who have parental support are likely to have better health as adults. Students with involved parents tend to earn higher grades, have better social skills, and are more likely to graduate and go on to post-secondary education. Children are more likely to be socially competent and have better communication skills when they have parents who are sensitive to their needs and emotions.
 ---
 
 
