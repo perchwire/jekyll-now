@@ -88,19 +88,19 @@ The relationship that parents share with their children is one that impacts a ch
 External Links:
 
 <a name="fn1"></a>
-Mikaela J. Dufur, Toby L. Parcel, Kelly P. Troutman. [Does Capital at Home Matter More than Capital at School? Social Capital Effects on Academic Achievement.](http://www.sciencedirect.com/science/article/pii/S027656241200042X) Research in _Social Stratification and Mobility,_ 2012; DOI: 10.1016/j.rssm.2012.08.002 - Cost: $31.50 at ScienceDirect.com
+1. Mikaela J. Dufur, Toby L. Parcel, Kelly P. Troutman. [Does Capital at Home Matter More than Capital at School? Social Capital Effects on Academic Achievement.](http://www.sciencedirect.com/science/article/pii/S027656241200042X) Research in _Social Stratification and Mobility,_ 2012; DOI: 10.1016/j.rssm.2012.08.002 - Cost: $31.50 at ScienceDirect.com
 
 <a name="fn2"></a>
-Website: [Research in Social Stratification and Mobility](http://www.journals.elsevier.com/research-in-social-stratification-and-mobility/) - "The study of social inequality is and has been one of the central preoccupations of social scientists."
+2. Website: [Research in Social Stratification and Mobility](http://www.journals.elsevier.com/research-in-social-stratification-and-mobility/) - "The study of social inequality is and has been one of the central preoccupations of social scientists."
 
 <a name="fn3"></a>
-Oct 11, 2012 telegraph.co.uk story titled [Good parenting 'matters more than a good school'](http://www.telegraph.co.uk/education/educationnews/9602564/Good-parenting-matters-more-than-a-good-schoolsc.html)
+3. Oct 11, 2012 telegraph.co.uk story titled [Good parenting 'matters more than a good school'](http://www.telegraph.co.uk/education/educationnews/9602564/Good-parenting-matters-more-than-a-good-schoolsc.html)
 
 <a name="fn4"></a>
-Bradley et al., 1988; Collins and Laursen, 1999; Dunn, J., 1993; Hartup and Rubin, 1986; Maccoby and Martin, 1983
+4. Bradley et al., 1988; Collins and Laursen, 1999; Dunn, J., 1993; Hartup and Rubin, 1986; Maccoby and Martin, 1983
 
 <a name="fn5"></a>
-[Neurons to Neighborhoods: The Science of Early Childhood Development](http://www.nap.edu/catalog/9824/from-neurons-to-neighborhoods-the-science-of-early-childhood-development) - Published in 2000 by the Committee on Integrating the Science of Early Childhood Development. Also [found at Amazon.com.](http://www.amazon.com/From-Neurons-Neighborhoods-Childhood-Development/dp/0309069882) 
+5. [Neurons to Neighborhoods: The Science of Early Childhood Development](http://www.nap.edu/catalog/9824/from-neurons-to-neighborhoods-the-science-of-early-childhood-development) - Published in 2000 by the Committee on Integrating the Science of Early Childhood Development. Also [found at Amazon.com.](http://www.amazon.com/From-Neurons-Neighborhoods-Childhood-Development/dp/0309069882) 
 
 
 
