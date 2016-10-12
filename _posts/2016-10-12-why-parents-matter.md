@@ -1,6 +1,7 @@
 ---
 layout: babyupost
 title: Why Parents Matter
+excerpt: Testing excerpt text
 ---
 
 
