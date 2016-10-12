@@ -2,7 +2,7 @@
 layout: babyupost
 title: Why Parents Matter
 excerpt: Baby University helps parents to ready their children for school.
-date: Oct 12, 2016
+date: Wednesday 16 October, 2016
 ---
 
 
