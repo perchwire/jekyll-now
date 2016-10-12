@@ -3,7 +3,6 @@ layout: babyupost
 title: Why Parents Matter
 ---
 
-CRAP Again Nothing Working
 
 ![graduating parents at baby u](https://farm9.staticflickr.com/8671/16123573514_7f8d93a54c_o.jpg)
 
