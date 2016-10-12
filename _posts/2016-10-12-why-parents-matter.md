@@ -96,7 +96,7 @@ fn5. [Neurons to Neighborhoods: The Science of Early Childhood Development](http
 
 Excerpts from an Oct 10, 2012 blog post by _Education Week_ titled [Parents More Influential Than Schools in Academic Success](http://blogs.edweek.org/edweek/parentsandthepublic/2012/10/study_parents_more_influential_than_schools_in_academic_success.html) that references the _Research in Social Stratification and Mobility_ study mentioned above.
 
-<blockquote markdown="1">
+<div class="highlighted" markdown="1">
 Parents who want their children to succeed academically in school have more influence over that outcome than the schools themselves, according to a study by researchers from three universities [North Carolina State University, Brigham Young University, and the University of California-Irvine].
 
 To arrive at their findings, researchers used the [National Education Longitudinal Study data](http://nces.ed.gov/surveys/els2002/) to evaluate social capital at home and at school.
@@ -120,4 +120,4 @@ To measure school social capital, which is defined as a school's ability to serv
 * Whether teachers responded to individual student needs; and
 * An overall measure of school environment that tapped delinquency, absenteeism, and violence.
 
-</blockquote>
+</div>
