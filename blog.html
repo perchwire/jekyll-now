@@ -13,6 +13,9 @@ subtitle: Building the Next Generation
      
       <div style="font-size:80%;text-align:center"><span class="homepage-post-date greytext"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date }}</a></span></div>
      
+      <div style="font-size:80%;text-align:center"><span class="homepage-post-date greytext"><time class="media-meta text-muted" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></span></div>
+     
+     
       <div class="entry">
         {{ post.excerpt }}
       </div>
