@@ -46,7 +46,9 @@ The marital intervention had a bigger effect on lowering children's aggression a
 
 ---
 
-<div style="text-align:center;" markdown="1">_<big>"I learned how to understand and listen to my children."</big>_</div>
+<div style="text-align:center;" markdown="1">
+<big>_"I learned how to understand and listen to my children."_</big>
+</div>
 
 ---
 
@@ -73,7 +75,10 @@ The relationship that parents share with their children is one that impacts a ch
 
 ---
 
-<div style="text-align:center;" markdown="1">_<big>"No significant learning occurs without a significant relationship."</big>_  <br /> - <small>James Comer (1995)</small></div> 
+<div style="text-align:center;" markdown="1">
+<big>_"No significant learning occurs without a significant relationship."_</big>
+<br /> - <small>James Comer (1995)</small>
+</div> 
 
 ---
 
