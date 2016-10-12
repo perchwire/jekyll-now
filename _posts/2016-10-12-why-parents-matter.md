@@ -6,6 +6,10 @@ title: Why Parents Matter
 ![graduating parents at baby u](https://farm9.staticflickr.com/8671/16123573514_7f8d93a54c_o.jpg)
 
 
+<div style="text-align:center" markdown="1">
+<big>_"This class was so much fun and educational , thank you!"_</big>
+</div>
+
 
 Baby University helps parents give their children the greatest gift of all: **A parent who can meet their needs and knows how to be their biggest cheerleader.**
 
