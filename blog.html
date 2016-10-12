@@ -4,8 +4,9 @@ title: Baby U Blog
 subtitle: Building the Next Generation
 ---
 
- <div class="post-stream">
+ 
   {% for post in site.posts %}
+<div class="post-stream">
     <article class="post">
 
       <h4 class="headingtext"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
@@ -16,6 +17,7 @@ subtitle: Building the Next Generation
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+ </div>
   <hr class="shortgrey" />
   {% endfor %}
-</div>
+
