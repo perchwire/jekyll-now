@@ -1,7 +1,8 @@
 ---
 layout: babyupost
 title: Why Parents Matter
-excerpt: Baby University helps parents give their children the greatest gift of all
+excerpt: Baby University helps parents to ready their children for school.
+date: Oct 12, 2016
 ---
 
 
