@@ -26,9 +26,9 @@ Need bio info for London Barabino, Parent Liaison
 
 ##### Donor Testimonials
 
-Early on, it was proposed that we host a page that contained comments from donors. 
+Early on, it was proposed that we host a page that contained [comments from donors](/donor-testimonials).
 
-http://babyutoledo.com/9/donor-testimonials
+
 
 
 ---
@@ -39,9 +39,9 @@ http://babyutoledo.com/9/donor-testimonials
 
 ##### Preschool page
 
-This new page was added, and the link was added to the drop-down menus.
+This [new page was added](/baby-university-preschool
+), and the link was added to the drop-down menus.
 
-</baby-university-preschool>
 
 
 
