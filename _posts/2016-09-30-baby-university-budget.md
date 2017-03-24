@@ -14,7 +14,7 @@ Baby U conducts three 10-week class sessions  a year. This page describes how th
 <table style="margin-top:40px;width:280px;" cellspacing="0"><tr><td><strong>Item</strong></td><td align="right"><strong>Percent</strong></td></tr><tr style="background:#e0eeee;"><td>Parent Advocates</td><td align="right">45</td></tr><tr style="background:#aeeeee;"><td>Class Instructor</td><td align="right">20</td></tr><tr style="background:#e0eeee;"><td>Incentives</td><td align="right">20</td></tr><tr style="background:#aeeeee;"><td>Child Care</td><td align="right">10</td></tr><tr style="background:#e0eeee;"><td>Transportation</td><td align="right">3</td></tr><tr style="background:#aeeeee;"><td>Admin</td><td align="right">2</td></tr></table>
 
 
-![pie chart of budget breakdown](/babyu-budget-breakdown-jan-2016.png)
+![pie chart of budget breakdown](/images/babyu-budget-breakdown-jan-2016.png)
 
 
 ### Descriptions
