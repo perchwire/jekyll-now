@@ -34,4 +34,12 @@ We need people to be a helpful "ear" to parents attending Baby U.
 ![](https://c2.staticflickr.com/6/5703/21801050051_1883a13886_z.jpg)
 
 
+<a name="Do-you-like-to-teach"></a>
+
+### Do you like to teach?
+
+If you have life skills to share, we need instructors to teach subjects, such as nutrition, finance, surviving on food stamps, parenting, and more.
+
+
+
 [Contact us](/contact) to learn more about these and other volunteering  opportunities.
