@@ -32,9 +32,9 @@ title: Baby University
           </ul>
         </li>
 
-        <li class="about"><a href="/about"><span class="blue-button">About</span></a>
+        <li class="about"><a href="/about-babyu"><span class="blue-button">About</span></a>
           <ul>
-            <li><a href="/about">About Baby U</a></li>
+            <li><a href="/about-babyu">About Baby U</a></li>
             <li><a href="/baby-university-board-members">Board of Directors</a></li>
             <li><a href="/contact">Contact</a></li>
             <li><a href="/our-story">Our Story</a></li>
