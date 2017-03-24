@@ -36,7 +36,7 @@ Experienced Moms and Dads _"who have been there"_ share their helpful stories.
 
 
 
-Each family will be assigned a *Parent Advocate* who will connect the parents to helpful resources in the community. 
+Each family will be assigned a [Parent Advocate](/baby-university-parent-advocates) who will connect the parents to helpful resources in the community. 
 
 While parents attend their class meetings, safe and fun childcare will be provided to their children.
 
