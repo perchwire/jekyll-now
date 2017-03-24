@@ -6,66 +6,66 @@ title: Baby University
 
 <div class="homepage-dropdown"><nav><ul >
 
-        <li class="donate"><a href="/8/donate"><span class="blue-button">Donate</span></a>
+        <li class="donate"><a href="/donate"><span class="blue-button">Donate</span></a>
           <ul>
-            <li><a href="/8/donate">Donate to Baby U</a></li>
-            <li><a href="/4/adopt-a-family">Adopt a Family</a></li>
-            <li><a href="/8/donate/#Donation">Use PayPal</a></li>
-            <li><a href="/8/donate/#Corporate-Donation">Corporate Donation</a></li>
-            <li><a href="/8/donate#Inkind-Donation">In-kind Donation</a></li>
-            <li><a href="/99/historical-donors">Historical Donors</a></li>
-            <li><a href="/20/donors">2017 Donors</a></li>
-            <li><a href="/671/future-commitments">Future Committments</a></li>
-            <li><a href="/8/donate#Employer-Matching-Gift-Program">Company Match</a></li>
-            <li><a href="/8/donate#Planned-Giving">Planned Giving</a></li>
-            <li><a href="/8/donate#United-Way">Through United Way</a></li>
+            <li><a href="/donate">Donate to Baby U</a></li>
+            <li><a href="/adopt-a-family">Adopt a Family</a></li>
+            <li><a href="/donate/#Donation">Use PayPal</a></li>
+            <li><a href="/donate/#Corporate-Donation">Corporate Donation</a></li>
+            <li><a href="/donate#Inkind-Donation">In-kind Donation</a></li>
+            <li><a href="/historical-donors">Historical Donors</a></li>
+            <li><a href="/donors">2017 Donors</a></li>
+            <li><a href="/future-commitments">Future Committments</a></li>
+            <li><a href="/donate#Employer-Matching-Gift-Program">Company Match</a></li>
+            <li><a href="/donate#Planned-Giving">Planned Giving</a></li>
+            <li><a href="/donate#United-Way">Through United Way</a></li>
           </ul>   
         </li>
 
-        <li class="volunteer"><a href="/21/volunteer"><span class="blue-button">Volunteer</span></a>
+        <li class="volunteer"><a href="/volunteer"><span class="blue-button">Volunteer</span></a>
           <ul>
-            <li><a href="/21/volunteer">Help Baby U</a></li>
-            <li><a href="/21/volunteer#Do-you-like-kids">Child Care</a></li>
-            <li><a href="/21/volunteer#Do-you-like-to-cook-">Meals</a></li>
-            <li><a href="/21/volunteer#Do-you-like-to-listen">Parent Mentor</a></li>
-            <li><a href="/21/volunteer#Do-you-like-to-teach">Instructor</a></li>
+            <li><a href="/volunteer">Help Baby U</a></li>
+            <li><a href="/volunteer#Do-you-like-kids">Child Care</a></li>
+            <li><a href="/volunteer#Do-you-like-to-cook-">Meals</a></li>
+            <li><a href="/volunteer#Do-you-like-to-listen">Parent Mentor</a></li>
+            <li><a href="/volunteer#Do-you-like-to-teach">Instructor</a></li>
           </ul>
         </li>
 
-        <li class="about"><a href="/3/about"><span class="blue-button">About</span></a>
+        <li class="about"><a href="/about"><span class="blue-button">About</span></a>
           <ul>
-            <li><a href="/3/about">About Baby U</a></li>
-            <li><a href="/607/baby-university-board-members">Board of Directors</a></li>
-            <li><a href="/6/contact">Contact</a></li>
-            <li><a href="/15/our-story">Our Story</a></li>
-            <li><a href="/13/mission-statement">Mission Statement</a></li>
-            <li><a href="/11/how-to-signup">Enroll for Classes</a></li>
-            <li><a href="/5/baby-u-in-the-news">News</a></li>
-            <li><a href="/164/mosaic-ministries-of-south-toledo">Mosaic Ministries</a></li>
-            <li><a href="/23/why-neighborhoods-matter">Neighborhoods Matter</a></li>
+            <li><a href="/about">About Baby U</a></li>
+            <li><a href="/baby-university-board-members">Board of Directors</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/our-story">Our Story</a></li>
+            <li><a href="/mission-statement">Mission Statement</a></li>
+            <li><a href="/how-to-signup">Enroll for Classes</a></li>
+            <li><a href="/baby-u-in-the-news">News</a></li>
+            <li><a href="/mosaic-ministries-of-south-toledo">Mosaic Ministries</a></li>
+            <li><a href="/why-neighborhoods-matter">Neighborhoods Matter</a></li>
           </ul>
         </li>
 
-        <li class="babyu"><a href="/22/why-baby-u"><span class="blue-button">BabyU</span></a>
+        <li class="babyu"><a href="/why-baby-u"><span class="blue-button">BabyU</span></a>
           <ul>
-            <li><a href="/22/why-baby-u">Why Baby U</a></li>
-            <li><a href="/10/how-baby-u-works">How it Works</a></li>
-            <li><a href="/7/cradle-to-career-pipeline">Cradle to Career</a></li>
-            <li><a href="/24/why-parents-matter">Why Parents Matter</a></li>
-            <li><a href="/818/curriculum">Curriculum</a></li>
-            <li><a href="/819/parent-advocate">Parent Advocate</a></li>
-            <li><a href="/820/graduate-class">Graduate Class</a></li>
-            <li><a href="/19/south-toledo-kids-zone">Kids Zone</a></li>
-            <li><a href="/1116/baby-university-preschool">Preschool</a></li>
-            <li><a href="/647/baby-university-budget">Budget</a></li>
+            <li><a href="/why-baby-u">Why Baby U</a></li>
+            <li><a href="/how-baby-u-works">How it Works</a></li>
+            <li><a href="/cradle-to-career-pipeline">Cradle to Career</a></li>
+            <li><a href="/why-parents-matter">Why Parents Matter</a></li>
+            <li><a href="/curriculum">Curriculum</a></li>
+            <li><a href="/parent-advocate">Parent Advocate</a></li>
+            <li><a href="/graduate-class">Graduate Class</a></li>
+            <li><a href="/south-toledo-kids-zone">Kids Zone</a></li>
+            <li><a href="/baby-university-preschool">Preschool</a></li>
+            <li><a href="/baby-university-budget">Budget</a></li>
           </ul>
         </li>
 
-        <li class="impact"><a href="/16/impact"><span class="blue-button">Impact</span></a>
+        <li class="impact"><a href="/impact"><span class="blue-button">Impact</span></a>
           <ul>
-            <li><a href="/16/impact">Impact</a></li>
-            <li><a href="/18/quotes-from-baby-u-graduates">Testimonials</a></li>
-            <li><a href="/817/outcomes">Outcomes</a></li>
+            <li><a href="/impact">Impact</a></li>
+            <li><a href="/quotes-from-baby-u-graduates">Testimonials</a></li>
+            <li><a href="/outcomes">Outcomes</a></li>
           </ul>
         </li>
       </ul></nav></div>
