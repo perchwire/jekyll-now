@@ -11,11 +11,11 @@ excerpt: Children who have parental support are likely to have better health as 
 
 Baby University helps parents give their children the greatest gift of all: **A parent who can meet their needs and knows how to be their biggest cheerleader.**
 
-A recent nationally representative study <sup class="footnote"><a href="#fn1">1</a></sup> published in the _Research in Social Stratification and Mobility_ <sup class="footnote"><a href="#fn2">2</a></sup> journal presents an important finding: Parenting matters more than school in students' academic achievements.
+A recent nationally representative study <sup>1</sup> published in the _Research in Social Stratification and Mobility_ <sup>2</sup> journal presents an important finding: Parenting matters more than school in students' academic achievements.
 
 
 
-In fact, _The Telegraph reports_ <sup class="footnote"><a href="#fn3">3</a></sup> that this "study of 10,000 teenagers has found the home environment is three times more important than the school, when it comes to 18-year-olds' test results."
+In fact, _The Telegraph reports_ <sup>3</sup> that this "study of 10,000 teenagers has found the home environment is three times more important than the school, when it comes to 18-year-olds' test results."
 
 
 ---
@@ -60,7 +60,7 @@ The relationship that parents share with their children is one that impacts a ch
 
 ### Home Life
 
-> “A vast store of research, …. has confirmed that what young children learn, how they react to the events and people around them, and what they expect from themselves and others are deeply affected by their relationships with parents, the behavior of parents, and the environment of the homes in which they live.” <sup class="footnote"><a href="#fn4">4</a></sup>
+> “A vast store of research, …. has confirmed that what young children learn, how they react to the events and people around them, and what they expect from themselves and others are deeply affected by their relationships with parents, the behavior of parents, and the environment of the homes in which they live.” <sup>4</sup>
 
 
 ### Early Relationships
@@ -71,7 +71,7 @@ The relationship that parents share with their children is one that impacts a ch
 
 “In the rare situations in which infants do not have the opportunity to form an attachment with even one trusted adult, their development can deteriorate rapidly and dramatically.
 
-“The remarkable recovery that these infants display once they receive stable care and loving attention further reveals the importance of the child's earliest intimate relationships.” <sup class="footnote"><a href="#fn5">5</a></sup>
+“The remarkable recovery that these infants display once they receive stable care and loving attention further reveals the importance of the child's earliest intimate relationships.” <sup>5</sup>
 </blockquote>
 
 
@@ -89,20 +89,12 @@ The relationship that parents share with their children is one that impacts a ch
 
 External Links:
 
-<a name="fn1"></a>
-1. Mikaela J. Dufur, Toby L. Parcel, Kelly P. Troutman. [Does Capital at Home Matter More than Capital at School? Social Capital Effects on Academic Achievement.](http://www.sciencedirect.com/science/article/pii/S027656241200042X) Research in _Social Stratification and Mobility,_ 2012; DOI: 10.1016/j.rssm.2012.08.002 - Cost: $31.50 at ScienceDirect.com
+1. Mikaela J. Dufur, Toby L. Parcel, Kelly P. Troutman. _Does Capital at Home Matter More than Capital at School? Social Capital Effects on Academic Achievement._ Research in _Social Stratification and Mobility,_ 2012; DOI: 10.1016/j.rssm.2012.08.002
+1. _Research in Social Stratification and Mobility_ - "The study of social inequality is and has been one of the central preoccupations of social scientists." - Found at journals.elsevier.com.
+1. Oct 11, 2012 telegraph.co.uk story titled _Good parenting 'matters more than a good school'_
+1. Bradley et al., 1988; Collins and Laursen, 1999; Dunn, J., 1993; Hartup and Rubin, 1986; Maccoby and Martin, 1983
+1. _Neurons to Neighborhoods: The Science of Early Childhood Development_     - Published in 2000 by the Committee on Integrating the Science of Early Childhood Development. Found at nap.edu and at Amazon.com.
 
-<a name="fn2"></a>
-2. Website: [Research in Social Stratification and Mobility](http://www.journals.elsevier.com/research-in-social-stratification-and-mobility/) - "The study of social inequality is and has been one of the central preoccupations of social scientists."
-
-<a name="fn3"></a>
-3. Oct 11, 2012 telegraph.co.uk story titled [Good parenting 'matters more than a good school'](http://www.telegraph.co.uk/education/educationnews/9602564/Good-parenting-matters-more-than-a-good-schoolsc.html)
-
-<a name="fn4"></a>
-4. Bradley et al., 1988; Collins and Laursen, 1999; Dunn, J., 1993; Hartup and Rubin, 1986; Maccoby and Martin, 1983
-
-<a name="fn5"></a>
-5. [Neurons to Neighborhoods: The Science of Early Childhood Development](http://www.nap.edu/catalog/9824/from-neurons-to-neighborhoods-the-science-of-early-childhood-development) - Published in 2000 by the Committee on Integrating the Science of Early Childhood Development. Also [found at Amazon.com.](http://www.amazon.com/From-Neurons-Neighborhoods-Childhood-Development/dp/0309069882) 
 
 
 
