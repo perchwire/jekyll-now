@@ -8,10 +8,22 @@ title: Baby University Board Members
 
 Kelly Kaiser started Baby University in 2010 as a result of friendships she had developed with some young families in the inner city. In an effort to find an effective way to support families and children struggling with poverty, Baby University was birthed.
 
-Kelly and her husband David have raised 5 kids, and are enjoying being grandparents. Kelly is a Licensed Physical Therapist and a Certified [Bridges Out of Poverty](http://www.ahaprocess.com/store/bridges-out-of-poverty-book) Trainer.
+Kelly and her husband David have raised 5 kids, and are enjoying being grandparents. Kelly is a Licensed Physical Therapist and a Certified Bridges Out of Poverty Trainer.
+
+
+
+
+
+
+##### Kelly Kaiser, Executive Director of Baby U
+
+Kelly Kaiser started Baby University in 2010 as a result of friendships she had developed with some young families in the inner city. In an effort to find an effective way to support families and children struggling with poverty, Baby University was birthed.
+
+Kelly and her husband David have raised 5 kids, and are enjoying being grandparents. Kelly is a Licensed Physical Therapist and a Certified Bridges Out of Poverty Trainer.
 
 
 <hr class="shortgrey" />
+
 
 
 ##### Pete Allesee, Board President
@@ -24,6 +36,7 @@ Pete has worked on charitable fundraising with the Perrysburg Athletic Boosters,
 
 
 <hr class="shortgrey" />
+
 
 
 ##### Belinda Costin, Board Vice President
@@ -42,20 +55,19 @@ Belinda has her Bachelor of Science in Education from Bowling Green State Univer
 <hr class="shortgrey" />
 
 
-##### Steve Pereus, Board Treasurer
 
-Steve brings over two decades of successful experience, leading improvements in education, business, and not for profits. He has been involved in education for more than 20 years as a COO, board member, and consultant in education.
+##### Mary Siefke, Board Treasurer
 
-Steve is the founder and president of [Enlīt](http://enlitllc.com). Enlīt's technology, tools, and training build the capacity of educational organizations to operate more efficiently, reach goals, and make changes that improve performance.
+Mary Siefke is a CPA with over 17 years of experience in the accounting field.  She began her career at Ernst & Young LLP and moved to ProMedica where she spent over 12 years in various roles, including as Director of Finance at Paramount Health Care. She is currently CFO at the Toledo Museum of Art.
 
-Enlīt has worked with over 100 educational organizations in 13 states since 2010. Enlīt's technology and training adapt and integrate [Lean Six Sigma](https://en.wikipedia.org/wiki/Lean_Six_Sigma), the balanced scorecard and benchmarking to the educational organization.
+Originally from Indianapolis, Indiana, Mary graduated from Earlham College in Richmond, Indiana with a major in Japanese Studies.  After meeting and marrying her husband in 1995, she went on to achieve her Masters in the Science of Accounting from the University of Toledo and has lived in the greater Toledo area ever since.
 
-Steve has served in executive positions with British Petroleum, and he is the former COO of Toledo Public schools where he led initiatives that generated over $17 million per year in cost savings, improved labor relations, and community perception of the district.
+Mary currently resides in Perrysburg with her husband and 2 children.  
 
-He is also the author of three books on performance improvement in education and government, and he is a frequent speaker on the use of data in education. 
 
 
 <hr class="shortgrey" />
+
 
 
 ##### Mary Ann Rody, Board Secretary
@@ -76,15 +88,6 @@ Mary Ann lives in Maumee, Ohio with her husband of 38 years. Together they have
 <hr class="shortgrey" />
 
 
-##### Charity Anderson, Board Member
-
-Charity Anderson was first introduced to Baby University in April of 2014 while she was expecting her first baby. She enrolled into the program and became a well prepared first-time parent because of her experiences there. She also followed through and completed the Baby University Graduate program just in time for her daughter to be born in November of 2014. 
-
-Charity is a graduate from Lourdes University and is a holder of four undergraduate degrees with honors: Applied Science, Art, English, and Education. She is a licensed teacher who feels especially blessed to pursue a graduate degree at the University of Toledo, raise her beautiful daughter, prepare for baby #2 who is expected in 2016, and participate on Baby University’s board.
-
-
-<hr class="shortgrey" />
-
 
 ##### Sarah Otis, Board Member
 
@@ -93,3 +96,27 @@ Sara Otis has 30 years experience in the not-for-profit environment with extensi
 Sarah has experience in building fundraising platforms, instilling quality metrics and creating and evaluating deep partnerships for effective programming. Sarah works with entities to solidify concrete partnerships for effective outcomes for their clients. 
 
 Residing in Maumee, she is married and has two daughters and two grandbabies.
+
+
+
+
+<hr class="shortgrey" />
+
+
+
+##### Julie Haas, Board Member
+
+Julie Haas grew up in a small town in southwest Ohio. In 2005, she brought those small town values to the Toledo area while attending Bowling Green State University. Julie holds a Bachelor’s degree in Communication, a minor in Social Service, and an Early Childhood Director’s certificate.
+
+For the past 6 years, Julie has been involved with non-profit social services and has been working with children for 10 years. She is passionate about helping shape the lives of our future generations. Julie is currently Program director at Mom's House of Toledo, which strives to break the cycle of poverty by helping  at-risk single parents achieve educational goals.
+ 
+Julie has been married to her husband, Matt for 6 years and has two daughters.
+
+
+<hr class="shortgrey" />
+
+
+
+##### London Barabino, Parent Liaison 
+
+ 
