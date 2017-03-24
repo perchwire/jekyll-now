@@ -3,6 +3,7 @@ layout: babyupost
 title: Historical Donors
 ---
 
+*Prior to 2016*
 
 #### Grants
 
@@ -98,6 +99,7 @@ title: Historical Donors
 * Karen and Scott Wood - 2013-14
 * Tina and Doug Ymker - 2015
 * Libby and Ben Bauman - 2013-15
+* Tina and Doug Ymker - 2015
+* Libby and Ben Bauman - 2013-15
 * Ellen Lemke - 2013
-
 
