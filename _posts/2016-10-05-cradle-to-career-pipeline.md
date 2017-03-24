@@ -20,9 +20,11 @@ Baby University also offers a “pipeline” of sorts for parents in the form of
 Parents can enroll in classes that help them build family resources, financial literacy, and job skills that will help them move from being welfare dependent to self sufficient.
 
 
+---
 
-#### Footnotes
 
-# [Baby U : South Toledo Kikds Zone](/south-toledo-kids-zone)
+Footnotes
+
+1. [Baby U : South Toledo Kikds Zone](/south-toledo-kids-zone)
 
 
