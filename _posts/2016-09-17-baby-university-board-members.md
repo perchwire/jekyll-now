@@ -11,6 +11,7 @@ Kelly Kaiser started Baby University in 2010 as a result of friendships she had 
 Kelly and her husband David have raised 5 kids, and are enjoying being grandparents. Kelly is a Licensed Physical Therapist and a Certified Bridges Out of Poverty Trainer.
 
 
+<hr class="shortgrey" />
 
 
 
