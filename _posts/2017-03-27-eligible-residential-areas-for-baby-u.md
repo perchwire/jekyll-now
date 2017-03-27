@@ -5,75 +5,75 @@ title: Eligible residential areas for Baby U
 
 If you live on one of these streets in the *Old South End* area of Toledo, then you are eligible to attend Baby University.
 
-Baden
-Balfe
-Banks
-Boalt
-Boody
-Bow
-Bowman
-Broadway
+Baden  
+Balfe  
+Banks  
+Boalt  
+Boody  
+Bow  
+Bowman  
+Broadway  
 
-Canal Ave
-Chapin
-Colburn
-Colton
-Courtland
-Crittenden
+Canal Ave  
+Chapin  
+Colburn  
+Colton  
+Courtland  
+Crittenden  
 
-Eastern
-Erie St
+Eastern  
+Erie St  
 
-Field
-Foraker
+Field  
+Foraker  
 
-Garland
+Garland  
 
-Harding
-Havre
-High St
-Hobart
+Harding  
+Havre   
+High St  
+Hobart  
 
-Jervis
+Jervis  
 
-Knower
+Knower  
 
-Langdon
-Leland
-Linden
-Lorain
-Lotus
+Langdon  
+Leland  
+Linden  
+Lorain  
+Lotus  
 
-Marion
-Maumee
-Mill
-Morton
+Marion  
+Maumee  
+Mill  
+Morton  
 
-Orchard
+Orchard  
 
-Pleasant Pl
+Pleasant Pl  
 
-Prouty
+Prouty  
 
-Redwood
+Redwood  
 
-Segur
-South
-St Clair St
-St Marys
-Stebbins
-Sumner
+Segur  
+South  
+St Clair St  
+St Marys  
+Stebbins  
+Sumner  
 
-Thayer
-Thomas
+Thayer  
+Thomas  
 
-Vinton
+Vinton  
 
-Walbridge
-Wasaon
-Waterworks
-Western
-Weston
+Walbridge  
+Wasaon  
+Waterworks  
+Western  
+Weston  
 
 
 If you have questions or concerns, please "contact us.":http://babyutoledo.com/6/contact
