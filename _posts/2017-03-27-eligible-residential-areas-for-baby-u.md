@@ -1,5 +1,8 @@
-# Eligible residential areas for Baby U
- 
+---
+layout: babyupost
+title: Eligible residential areas for Baby U
+---
+
 If you live on one of these streets in the *Old South End* area of Toledo, then you are eligible to attend Baby University.
 
 Baden
