@@ -81,5 +81,5 @@ title: Baby University
 
 
 <div style="background:#f5faff;padding:10px;margin-top:60px;font-size:80%;line-height:120%;">
-**Recent News:** January 2017 -  Baby University was one of the charities chosen to receive contributions from the _"Toledo Auto Dealers United for Kids “The Cars are the Stars XIV” Preview Gala"_ charity event, which kicked off the 100th Greater Toledo Auto Show. - [More Baby University news.][/baby-u-in-the-news]
+<strong>Recent News:</strong> January 2017 -  Baby University was one of the charities chosen to receive contributions from the _"Toledo Auto Dealers United for Kids “The Cars are the Stars XIV” Preview Gala"_ charity event, which kicked off the 100th Greater Toledo Auto Show. - <a href="/baby-u-in-the-news">More Baby University news</a>.
 </div>
