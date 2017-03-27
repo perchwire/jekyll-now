@@ -11,7 +11,7 @@ title: How to Sign-up
 
 * Do you have kids under the age of 5-years-old?
 * Or are you expecting a baby?
-* [Or do you live in the Old South End?](http://babyutoledo.com/155/eligible-residential-areas-for-baby-u)
+* [Or do you live in the Old South End?](/eligible-residential-areas-for-baby-u)
 
 Then you qualify for an exciting opportunity.
 
