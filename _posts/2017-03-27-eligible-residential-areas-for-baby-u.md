@@ -3,7 +3,7 @@ layout: babyupost
 title: Eligible residential areas for Baby U
 ---
 
-If you live on one of these streets in the *Old South End* area of Toledo, then you are eligible to attend Baby University.
+If you live on one of these streets in the **Old South End** area of Toledo, then you are eligible to attend Baby University.
 
 Baden  
 Balfe  
@@ -76,4 +76,4 @@ Western
 Weston  
 
 
-If you have questions or concerns, please "contact us.":http://babyutoledo.com/6/contact
+If you have questions or concerns, please [contact us](/contact).
