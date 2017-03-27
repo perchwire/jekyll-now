@@ -17,7 +17,7 @@ published: true
 
 For a donation of $1,000, you can sponsor a family to participate in Baby University and help us achieve our mission.
 
-You can [donate with PayPal,](http://babyutoledo.com/8/donate#Adopt-a-Family) or you can print, complete, and mail this form, which is an Acrobat PDF file: [BabyU Adopt a Family Form.](http://babyutoledo.com/docs/BabyU-Adopt-A-Family.pdf)
+You can [donate with PayPal,](/donate#Adopt-a-Family) or you can print, complete, and mail this form, which is an Acrobat PDF file: [BabyU Adopt a Family Form.](/docs/BabyU-Adopt-A-Family.pdf)
 
 Baby University serves an area of South Toledo where nearly 50 percent of the residents live below the poverty line, and over 60 percent of the children start  Kindergarten behind other students in learning development.
 
@@ -25,7 +25,7 @@ Baby University wants to end generational poverty by helping families prepare th
 
 When you sponsor a Baby University family, you are connecting an underprivileged family to much needed resources including:
 
-<div class="largescreens-only" style="float:right;text-align:center;"><a href="http://babyutoledo.com/19/south-toledo-kids-zone"><img border="0"  src="http://babyutoledo.com/images/babyu-facebook-logo-small.jpg"></a><br /><span class="greytext"><a href="http://babyutoledo.com/19/south-toledo-kids-zone">click here</a></span></div>
+<div class="largescreens-only" style="float:right;text-align:center;"><a href="/south-toledo-kids-zone"><img border="0"  src="/images/babyu-facebook-logo-small.jpg"></a><br /><span class="greytext"><a href="/south-toledo-kids-zone">click here</a></span></div>
 
 Social Work:
 
@@ -47,7 +47,7 @@ Baby U:
 * Instruction in best parenting practices
 
 <div class="smallscreens" markdown="1">
-[South Toledo Kids Zone](http://babyutoledo.com/19/south-toledo-kids-zone)
+[South Toledo Kids Zone](/south-toledo-kids-zone)
 </div>
 
 Every Saturday morning for 10 weeks, Baby University attendees enjoy:
