@@ -45,14 +45,14 @@ Aug 14, 2013 - Toledo Blade:
 
 
 Jun 7, 2012 - Toledo Free Press:
- - [South Toledo Community Center seeks new home](http://babyutoledo.com/263/jun-2012-toledo-free-press-article-that-mentions-mosaic-ministries)
+ - [South Toledo Community Center seeks new home](/jun-2012-toledo-free-press-article-that-mentions-mosaic-ministries)
 
 
 ---
 
 
 Mar 30, 2012 - Toledo Free Press:
- - [Churches, agencies partner to develop South Toledo](http://babyutoledo.com/257/mar-2012-toledo-free-press-article-that-mentions-mosaic-ministries)
+ - [Churches, agencies partner to develop South Toledo](/mar-2012-toledo-free-press-article-that-mentions-mosaic-ministries)
  
 > Kaiser told the attendees at his community meeting that he’s consciously not calling South Toledo the “South End” anymore. Because this, he said, is not the end.
 
@@ -61,6 +61,6 @@ Mar 30, 2012 - Toledo Free Press:
 
 
 Feb 10, 2012 - Toledo Free Press:
- - [Los Miserables](http://babyutoledo.com/251/feb-2012-toledo-free-press-article-about-mosaic-ministries)
+ - [Los Miserables](/feb-2012-toledo-free-press-article-about-mosaic-ministries)
 
 > ... in the midst of collapse and ruin, there are people who believe in a better way, people who believe in the future, people who believe in salvation.
