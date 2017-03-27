@@ -27,7 +27,7 @@ Footnotes:
 
 
 1. <http://hcz.org> - The Harlem Children's Zone works to "disrupt" generational poverty in Central Harlem, New York City. HCZ supports over 12,000 youth from early childhood through college.
-1. [Baby U : Cradle to Career Pipeline](cradle-to-career-pipeline)
+1. [Baby U : Cradle to Career Pipeline](/cradle-to-career-pipeline)
 1. [Point2Homes.com : South Side Toledo Demographics](http://www.point2homes.com/US/Neighborhood/OH/Toledo/South-Side-Toledo-Demographics.html)
 
 
