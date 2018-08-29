@@ -5,28 +5,44 @@ permalink: /about-perchwire/
 published: true
 ---
 
-*Sep 2016* - I'm building this test website by using Jekyll with GitHub pages, but I'm not using a local install of Jekyll, which requires committing web posts.
 
-I'm using GitHub's web browser editor to create and update pages.
+
+### August 2018
+
+In late 2016 and early 2017, I made perchwire.com mirror the main website, located at babyutoledo.com. Since the spring of 2017, however, I have not kept up with changes made at babyutoledo.com, which means perchwire.com is no longer a direct mirror, but that's okay. This was only a test or proof-of-concept, and it worked fine, as expected. If necessary, it would be easy to switch the main website away from my setup below to use GitHub Pages.
+
+
+
+### September 2016
+
+*Using a static site generator*
+ 
+I'm building this test website perchwire.com by using Jekyll with GitHub Pages, but I'm not using a local install of Jekyll, which requires committing web posts with a local install of git.
+
+No command line actions are requried with this setup. I'm using GitHub's web browser editor to create and update pages.
 
 I created a new GitHub account with username perchwire.
 
-I followed instructions at <https://github.com/barryclark/jekyll-now> and I forked that repository. Then I changed the name to perchwire.github.io. The repository is helpful for getting started with using Jekyll and GitHub Pages.
+I followed instructions at <https://github.com/barryclark/jekyll-now> and I forked that repository. Then I changed the repo name to perchwire.github.io. The repository is helpful for getting started with using Jekyll and GitHub Pages.
 
 The author of the above repository also created this helpful  smashingmagazine.com article titled [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages).
 
-In addition to using GitHub's web browser editor to maintain content, I'm testing Development Seed's editor called [Prose](http://prose.io), which is designed to work with GitHub Pages by connecting to a GitHub account. It's pretty slick. Well done.
+In 2016, I drew SSG inspiration by reading this 2012 article by Development Seed, titled [How We Build CMS-Free Websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/).
+
+In addition to using GitHub's web browser editor to maintain content, I'm testing Development Seed's editor called [Prose](http://prose.io), which is designed to work with GitHub Pages by connecting to a GitHub account. I like the editor.
 
 When any file is saved within my GitHub Pages repository (perchwire.github.io), GitHub automatically rebuilds the site, or it rebuilds the changed page.
 
 
 ### Baby University Webstie
 
+In 2014, I created a web publishing app, called Grebe. In 2015, I volunteered to build a website for a local non-profit called Baby University.
+
 I built <http://babyutoledo.com> using my Grebe web publishing app. I can create Grebe posts by using Textile, Markdown/MultiMarkdown, and HTML. The content is stored in a MySQL database, but I cache content in memecached.
 
 Since I've recently taken a liking to the concept of static HTML-based websites, I want to try to recreate much of the Baby U website at perchwire.com, using Jekyll and GitHub Pages. 
 
-I think that search is the only function that requires content to be dynamically-generated for browsing-only users. The blog section at Baby U is dynamically-generated. The vast majority of the site, however, could be served via static HTML pages.
+I think that search is the only function that requires content to be dynamically-generated for browsing-only users. The blog section at Baby U is dynamically-generated in my Grebe app. The vast majority of the site, however, could be served via static HTML pages.
 
 The customized version of Grebe that I use at Baby U permits using different page templates on a per-post basis. That should be easily replicable with Jekyll.
 
