@@ -38,7 +38,7 @@ When any file is saved within my GitHub Pages repository (perchwire.github.io), 
 
 In 2014, I created a web publishing app, called Grebe. In 2015, I volunteered to build a website for a local non-profit called Baby University.
 
-I built <http://babyutoledo.com> using my Grebe web publishing app. I can create Grebe posts by using Textile, Markdown/MultiMarkdown, and HTML. The content is stored in a MySQL database, but I cache content in memecached.
+I built <http://babyutoledo.com> using my Grebe web publishing app. I can create Grebe posts by using Textile, Markdown/MultiMarkdown, and HTML. The content is stored in a MySQL database, but I cache content in Memcached after creates and updates. When a user clicks a link, the Nginx web server checks Memcached for the cached page. If it's found in Memcached, then my Grebe code is never executed, which means no database access. If the page was not found in Memcached, possibly after flushing the cache for some reason, then Nginx executes my Grebe code, which pulls content from the database, and then Grebe creates the page dynamically by applying the appropriate template. And then the page is stored in Memcached.
 
 Since I've recently taken a liking to the concept of static HTML-based websites, I want to try to recreate much of the Baby U website at perchwire.com, using Jekyll and GitHub Pages. 
 
