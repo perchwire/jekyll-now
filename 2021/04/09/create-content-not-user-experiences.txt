@@ -1,0 +1,218 @@
+# Create Content, not User Experiences
+
+## Regarding personal site publishing
+
+(created Apr 8, 2021)
+
+This HN thread was started yesterday.
+
+"Writing HTML in HTML (2019)"
+=> https://news.ycombinator.com/item?id=26723408
+=> http://john.ankarstrom.se/html/
+
+A commenter mentioned the HN thread from 2019 that pointed to that same post.
+
+=> https://news.ycombinator.com/item?id=20238289
+
+And John Ankarstrom created a followup post in 2020.
+
+=> http://john.ankarstrom.se/html2/
+
+After reading most of the above content, I had these thoughts.
+
+* The geeks love to create complexity so that they can create tools to reduce the complexity.
+
+* It's understandable why the silos, such as Facebook, crushed the open web. The silos made it easy to post content. Facebook users don't worry about creating user experiences. And the "admin tax" does not apply to Facebook users.
+
+* Len's web publishing thoughts are better than the HTML discussions above.
+
+=> http://len.falken.ink/misc/writing-for-the-internet-across-a-human-lifetime.txt
+
+* And I'm glad that Gemini exists.
+
+I DO like John Ankarstrom's thoughts about personal web publishing.
+
+=> http://john.ankarstrom.se/accessible/
+
+> It is served over HTTP
+
+> It does not require JavaScript
+
+> It uses rather basic CSS
+
+> It does not use any custom fonts
+
+> It does not have huge images
+
+
+Len's thoughts about web publishing:
+
+* HTTP
+* no HTML
+* nothing embedded nor inline. URLs for other web posts, images, etc. can be copied and pasted
+* no CSS
+* no JavaScript
+
+Excerpts from Len's post:
+
+> No more walled gardens, no more chains of complexity.
+
+> Today I declare what once was, is again. Never again will I run another invocation of a static site generator or document renderer.
+
+> Using monospace fonts,  it is possible to create multi-column layouts and other typesetting features ithout involving complex software stacks. Many papers in the 1900s were typeset this way, and there's no reason why this is not good enough for most  people.
+
+Like Len, I prefer to write in plain text and not in HTML text. My plain text, however, may contain a sprinkling of Markdown/CommonMark/Gemtext, but the original plain text is still easy to read and understand, in my opinion. 
+
+Simple HTML text markup that has been hand-crafted can also be as easy to read as plain text, but I have no interest in typing the HTML paragraph opening and closing tags dozens of times in one of my long posts. I don't want to type the blockquote tags nor the unordered list markup either.
+
+Plain text posts, like Len's, can be accessed and READ easily on the web, Gopher, and Gemini, and in text editors and word processors. I could print the .txt version of one of my posts, and it would be easy to read. 
+
+If web readers desire formatting when reading .txt content, then the readers can use a Markdown viewing web browser extension, such as Markdown Preview Plus for Chrome. This let's readers control the typography, and it works even if the text file contains no Markdown. Readers can control foreground and background colors, font-sizes and types, line-spacing, paragraph spacing, text width, etc.
+
+My web-based static site generator permits me to created and update content through a web browser by either using the venerable HTML textarea box or my JavaScript editor, which is what I'm using now to write this post. 
+
+My web-based SSG saves my plain text writing in a .txt file, and of course, my web-based SSG creates the HTML version of my plain text content.
+
+Here's the .txt version of one of my posts.
+
+=> https://sawv.org/2020/05/04/moroccan-bread-may-4-2020.txt
+
+When I view Len's .txt posts and my .txt posts within Chrome with the Markdown Preview Plus extension, our pages look the same TO ME, based upon the custom CSS that I uploaded to the extension.
+
+Readers should control the typography, not the publishers. 
+
+=> gemini://rosenzweig.io/gemlog/2020-11-01-gemini-day-2.gmi
+
+> Gemini, both technically and socially, is simple and forgiving in a novel way for me.
+
+> With my gemlog I'm happy to type out gemtext directly with zero postprocessing at any layer of the stack, push it up, and that's it.
+
+> Gemini frees me from worrying about staying "competitive" with CSS, whatever that means. Out of the box, my gemlog will look great to me. To everypony else, it won't look any worse than any other site in Geminispace :-)
+
+=> gemini://transjovian.org/phoebe/page/The%20use%20of%20colours
+
+> [on Gemini] authors provide content, not a “user experience” 
+
+
+Excerpts from this Gopher post:
+
+=> gopher://dataswamp.org:70/0/~lich/musings/links-browser.md
+
+> Many browsers today are gigantic resource hogs, which are basically VMs for various web applications.
+
+It's disgusting that these gigantic modern web browsers do not provide READERs with the option to render text/plain content, according to typography settings, set by the READERS.
+
+If readers want to view text/plain content as dark text displayed on a white background in monospace font, then that's fine. 
+
+But these huge "modern" browsers should offer something like the Markdown Preview Plus extension built into the browsers, but instead of uploading CSS, the browsers would function like the Kristall internet browser by making it easy for users to control the typography settings.
+
+=> https://sawv.org/2020/09/28/my-typography-settings-for-the-kristall-internet-browser.html
+
+If authors want to create text/plain content for the web, instead of text/html content, then readers can view the text/plain content more comfortably with the browser's built-in plain text renderer feature. This seems like a SmallWeb idea.
+
+HN thread from March 2020:
+
+"Get Static (meyerweb.com)"
+=> https://news.ycombinator.com/item?id=22659324
+=> https://meyerweb.com/eric/thoughts/2020/03/22/get-static/
+
+Top comment in that HN thread:
+
+> Static site generator for non-technical people:
+
+> 1. Write your article in Microsoft Word.
+> 2. Save as 'Web Page, Filtered'
+> 3. Upload/Place in html folder on Webserver.
+
+> Almost everyone has access to a copy of Word, if not I think LibreOffice has a html save function also.
+
+> This solution is 100% wrong for us technical people, but for non-techies who just want to get the information out there it's a really good option imho. 
+
+But for text/plain content, authors would save their posts as plain text .txt files.
+
+The admin tax, however, is the tricky part. "Upload/Place in html folder on Webserver." How is the content uploaded? SFTP? Is is a shared web server or a VPS at something like Digital Ocean? What about leasing a domain name and managing the DNS? That's all easy for me, but that's an admin tax that most people won't want to incur.
+
+If a site is hosted at AWS S3, authors can use AWS's web interface to upload content. It's probably unnecessary for most people to put AWS's CloudFront caching service in front of their S3 bucket. 
+
+But creating an AWS account, creating an S3 bucket, controlling the settings for the bucket, etc., that's all admin tax crapola.
+
+Even hosting .txt files at web, Gopher, and Gemini sites is probably harder for non-tech people than posting to social media silos.
+
+This is a good concept for web publishing.
+
+=> https://blot.im/
+
+> Blot is a blogging platform with no interface. It turns a folder into a website. Blot gives you access to tools — blog with your favorite text-editor. Blot synchronizes your folder using Dropbox or Git. 
+
+But can authors have their .txt files remain .txt files and not get converted to HTML pages?
+
+Excerpts from this week's HN thread that shows how complex it can be to create HTML content by hand or by any means, compared to typing simple text in a text editor and saving it and having it rendered according to the readers' prefs.
+
+> Unfortunately basic HTML has one glaring problem: it has no concept of code reuse. No layout, no shared footers, nothing like that. Frames were probably HTMLs answer to reusing common elements, but oops, frames are a disaster. Instead it was so bad there were actually Apache extensions to reuse HTML (see server side includes).
+
+> Then compound this problem with something like a blog where you have hundreds of pages who all need to have their menus updated every time you post something, and yeah...pure HTML is just unacceptable. 
+
+Menus updated on a blog??? I have no idea what the commenter meant. What a mess. I don't have that complexity here. This is more of a publisher problem and not an HTML problem. Site owners choose to make their sites complex.
+
+This is why I like Gemini or plain text web publishing it focuses on the point of the page. Designers and site owners lose focus and get distracted by shared headers and footers, sidebars, etc.
+
+Another HN commenter made a great suggestion:
+
+> IMO the solution is to design around these constraints, ie, don’t include a menu on your blog posts, just a link to the home page, which has a list of all the posts.
+
+That's what I do. I include a home link at the top and bottom of my web pages. At the bottom, however, I also include an info link. I wish that more websites focused this way. It's annoying how websites pollute the header and footer sections of EVERY page with the same navigation links. The link cruft can exist on the homepage.
+
+I know one reason why link cruft exists on every page: the clients want their sites to work that way and designers/developers must comply.
+
+But when it comes to personal sites, why not design pages as simple as the commenter above described? 
+
+The HN user who I excerpted earlier who mentioned blog menus on pages [???], replied to the user's suggestion above about limiting the link cruft to the blog homepages.
+
+> And then you've completely destroyed the point of hypermedia.
+
+Huh? Destroyed the point of hypermedia how? What in the hell is wrong with article pages focusing on the article content? A home link is enough. Readers can click the home to find more links.
+
+The other commenter responded:
+
+> What do you mean? You can still [link] to other documents, just drop the idea of linking to the same list of documents on every page
+
+I agree. But that other user responded with:
+
+> That works, but it's not what users want. Granted this is personal anecdata, but I've spent years pushing back on client expectations in the name of architecting things in a way the web supports at the lowest levels, and it's been an exercise in failure. No user is going to accept that behavior in a blog, and frankly as a reader on the internet, I find that solution pretty lame as well. 
+
+Good grief. What's magnitudes more lame and irritating are the horrible web designs used today by most websites, including personal sites, for article pages that consist of mainly TEXT. 
+
+Web designers may be text's worst nightmare. Why can't people leave text alone? The focus should be on the words and not the cruft that exists around the words.
+
+This is what is great about personal web, Gopher, and Gemini sites: owners can design and manage their content however they desire and not according to so-called conventions.
+
+On the silos, people type text. They probably only rarely type in some kind of formatting markup. They type text, and the silos, like Facebook, do the rest.
+
+Publishing on the open web, such as at personal websites, should be this easy. Type text, and the rest is managed by the CMS or by web browsers. 
+
+Chrome and Firefox dropped displaying RSS and Atom feeds in a usable manner. How much of the codebase was dedicated to this function? These browsers are massive apps. 
+
+Pale Moon still supports feed display. It formats an RSS or Atom file to make it human-usable with links. It seems like it would not take much to enable browsers to read plain text content and format it, according to reader prefs.
+
+Some limited web browsers, such as Links2, do not support CSS nor JavaScript. Maybe we need a new web browser that does not support HTML. This browser can be used to render plain text.
+
+Test sites:
+
+=> http://scaup.org/2021/04/09/moroccan-bread-may-4-2020.txt
+
+=> http://www.perchwire.com/moroccan-bread-may-4-2020.txt
+
+scaup.org is hosted at AWS S3, and perchwire.com is hosted at GitHub Pages.
+
+For the scaup.org text file, I edited the file locally on my laptop with Vim, and then I used the AWS web interface to upload the file to the S3 bucket. I created the 2021/04/09 folders within the AWS web interface.
+
+For the perchwire.com text file, I used GitHub's basic web interface to create and commit content. Although I did not save this version in a subdirectory, I did create the 2021/04/09 folders for another .txt post.
+
+With GitHub Pages, I can also edit the file locally with a text editor and choose to upload the file to be committed. And I can also choose to use a nicer web editing experience, such as the prose.io editor that connects to the GitHub repo. This allows me to create and update files.
+
+Obviously, with GitHub Pages, I could edit the files locally and use git from the command line to commit (upload) the files to the "website."
+
+When using GitHub Pages and NOT creating .md files with front matter, then I don't need to be concerned about the _posts folder. The .txt files don't get processed. They remain .txt files.
+
+-30-
+
