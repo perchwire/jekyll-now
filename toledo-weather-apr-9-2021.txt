@@ -1,0 +1,31 @@
+# Toledo Weather - Apr 9, 2021
+
+Toledo 7-day forecast
+
+Last Update: Apr 9, 2021 9:27 am
+
+This Afternoon: Partly sunny, with a high near 75. Breezy, with a south wind 17 to 20 mph, with gusts as high as 32 mph.
+
+Tonight: A chance of showers and thunderstorms between 9pm and 2am, then a slight chance of showers. Partly cloudy, with a low around 54. South wind 10 to 17 mph. Chance of precipitation is 30%. New rainfall amounts of less than a tenth of an inch, except higher amounts possible in thunderstorms.
+
+Saturday: A chance of showers and thunderstorms, then showers and possibly a thunderstorm after 3pm. High near 77. Southeast wind 6 to 15 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch, except higher amounts possible in thunderstorms.
+
+Saturday Night: Showers and possibly a thunderstorm, mainly before 3am. Low around 50. Southwest wind around 14 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.
+
+Sunday: A chance of showers after 9am. Partly sunny, with a high near 60. Breezy, with a southwest wind 15 to 20 mph, with gusts as high as 31 mph. Chance of precipitation is 50%. New precipitation amounts of less than a tenth of an inch possible.
+
+Sunday Night: A chance of showers, mainly before 9pm. Mostly cloudy, with a low around 48. Chance of precipitation is 50%. New precipitation amounts of less than a tenth of an inch possible.
+
+Monday: Mostly sunny, with a high near 66.
+
+Monday Night: Partly cloudy, with a low around 44.
+
+Tuesday: Mostly sunny, with a high near 60.
+
+Tuesday Night: Mostly cloudy, with a low around 40.
+
+Wednesday: Partly sunny, with a high near 59.
+
+Wednesday Night: Mostly cloudy, with a low around 40.
+
+Thursday: Partly sunny, with a high near 60.
